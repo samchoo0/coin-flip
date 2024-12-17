@@ -1,6 +1,3 @@
-# coin-flip
-python gambling, but coin
-code below:
 import random
 
 def coin_toss():
@@ -54,3 +51,4 @@ def gambling_game():
 
 if __name__ == "__main__":
     gambling_game()
+
